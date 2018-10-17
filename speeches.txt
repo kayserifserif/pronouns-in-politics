@@ -1,0 +1,59 @@
+PRESIDENT ELECT VICTORY SPEECH
+
+Obama_20081104_PresidentElectVictorySpeech.txt
+Words	2061
+Characters	11109
+Duration	00:16:46
+
+Trump_20161109_PresidentElectVictorySpeech.txt
+Words	1711
+Characters	9338
+Duration	00:14:58
+
+PRESIDENTIAL INAUGURAL ADDRESS
+
+Obama_20090120_PresidentialInauguralAddress.txt
+Words	2388
+Characters	13298
+Duration	00:19:42
+
+Trump_20170120_PresidentialInauguralAddress.txt
+Words	1464
+Characters	8445
+Duration	00:16:28
+
+UNITED NATIONS GENERAL ASSEMBLY SPEECH
+
+Obama_20090923_UnitedNationsGeneralAssemblySpeech.txt
+Words	5174
+Characters	29720
+Duration	00:38:08
+
+Trump_20180925_UnitedNationsGeneralAssemblySpeech.txt
+Words	3668
+Characters	21884
+Duration	00:34:42
+
+STATE OF THE UNION ADDRESS
+
+Obama_20100127_StateoftheUnionAddress.txt
+Words	7419
+Characters	42667
+Duration	01:10:21
+
+Trump_20180130_StateoftheUnionAddress.txt
+Words	5966
+Characters	34175
+Duration	01:20:30
+
+SPEECH TO FOREIGN NATION
+
+Obama_20110320_SpeechtoRiodeJaneiro.txt
+Words   2599
+Characters  14625
+Duration    00:22:17
+
+Trump_20170606_SpeechtoPoland.txt
+Words   3640
+Characters  20718
+Duration    00:36:18
