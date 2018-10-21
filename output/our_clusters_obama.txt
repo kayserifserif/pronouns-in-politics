@@ -1,5 +1,6 @@
 #Total No. of Cluster Types: 184
 #Total No. of Cluster Tokens: 323
+Rank	Freq	Range	Cluster
 1	12	3	our people
 2	10	4	our common
 3	10	3	our nation

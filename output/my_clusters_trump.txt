@@ -1,0 +1,28 @@
+#Total No. of Cluster Types: 26
+#Total No. of Cluster Tokens: 37
+1	8	3	my administration
+2	3	2	my greatest
+3	2	1	my brother
+4	2	2	my highest
+5	1	1	my body
+6	1	1	my constant
+7	1	1	my decision
+8	1	1	my duty
+9	1	1	my election
+10	1	1	my entire
+11	1	1	my family
+12	1	1	my fellow
+13	1	1	my first
+14	1	1	my friend
+15	1	1	my god
+16	1	1	my great
+17	1	1	my honor
+18	1	1	my ironclad
+19	1	1	my late
+20	1	1	my opinion
+21	1	1	my parents
+22	1	1	my promise
+23	1	1	my sincere
+24	1	1	my sisters
+25	1	1	my top
+26	1	1	my trip
