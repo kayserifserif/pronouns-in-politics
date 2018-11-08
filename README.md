@@ -19,6 +19,11 @@ How do Barack Obama and Donald Trump use personal pronouns in political speeches
 
 I am interested in this topic because politicians typically use and choose words carefully according to the political or ideological message they aim to convey; or, at the least, the words they use can reveal information about them. For example, pronouns reveal information about the politician’s relationships and attitudes. Words such as we/us/our are in-group words, which draw the audience in, while words such as I/me/my are out-group words, which push the audience away (Hasan 5). Therefore, pronoun choice can be used to investigate both the politician’s self-image and their relationships with their colleagues, the audience, and the nation.
 
+## Software and tools
+
+* R and RStudio
+* QuickCounter
+
 ## Works referenced
 
 Proctor, Katarzyna and Lily I-Wen Su. “The 1st person plural in political discourse—American politicians in interviews and in a debate.” *Journal of Pragmatics* 43.13 (2011): 3251- 3266.
