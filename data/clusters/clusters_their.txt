@@ -1,0 +1,27 @@
+President	Rank	Freq	Cluster
+Obama	1	12	their own
+Obama	2	6	their lives
+Obama	3	4	their children
+Obama	4	3	their families
+Obama	5	3	their obligations
+Obama	6	3	their responsibilities
+Obama	7	2	their hands
+Obama	8	2	their home
+Obama	9	2	their homes
+Obama	10	2	their labor
+Obama	11	2	their neighbors
+Obama	12	2	their rights
+Trump	1	8	their own
+Trump	2	4	their families
+Trump	3	3	their dreams
+Trump	4	3	their home
+Trump	5	2	their children
+Trump	6	2	their country
+Trump	7	2	their full
+Trump	8	2	their homes
+Trump	9	2	their lives
+Trump	10	2	their nations
+Trump	11	2	their neighbors
+Trump	12	2	their support
+Trump	13	2	their tax
+Trump	14	2	their time
