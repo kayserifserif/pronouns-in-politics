@@ -1,25 +1,25 @@
 #Total No. of Cluster Types: 35
-#Total No. of Cluster Tokens: 44
+#Total No. of Cluster Tokens: 45
 1	3	1	my administration
 2	3	1	my mother
 3	2	1	my country
 4	2	1	my desk
-5	2	2	my first
-6	2	1	my nation
-7	2	1	my sister
-8	1	1	my belief
-9	1	1	my belt
-10	1	1	my best
-11	1	1	my campaign
-12	1	1	my chief
-13	1	1	my daughters
-14	1	1	my debt
-15	1	1	my deeply
-16	1	1	my earliest
-17	1	1	my election
-18	1	1	my family
-19	1	1	my father
-20	1	1	my fellow
+5	2	2	my fellow
+6	2	2	my first
+7	2	1	my nation
+8	2	1	my sister
+9	1	1	my belief
+10	1	1	my belt
+11	1	1	my best
+12	1	1	my campaign
+13	1	1	my chief
+14	1	1	my daughters
+15	1	1	my debt
+16	1	1	my deeply
+17	1	1	my earliest
+18	1	1	my election
+19	1	1	my family
+20	1	1	my father
 21	1	1	my grandmother
 22	1	1	my honor
 23	1	1	my life

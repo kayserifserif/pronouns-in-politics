@@ -1,17 +1,17 @@
 #Total No. of Cluster Types: 26
-#Total No. of Cluster Tokens: 37
+#Total No. of Cluster Tokens: 38
 1	8	3	my administration
 2	3	2	my greatest
 3	2	1	my brother
-4	2	2	my highest
-5	1	1	my body
-6	1	1	my constant
-7	1	1	my decision
-8	1	1	my duty
-9	1	1	my election
-10	1	1	my entire
-11	1	1	my family
-12	1	1	my fellow
+4	2	2	my fellow
+5	2	2	my highest
+6	1	1	my body
+7	1	1	my constant
+8	1	1	my decision
+9	1	1	my duty
+10	1	1	my election
+11	1	1	my entire
+12	1	1	my family
 13	1	1	my first
 14	1	1	my friend
 15	1	1	my god
