@@ -1,6 +1,6 @@
 # Pronouns in Politics
 
-A data research project for USC GESM-161 with Professor Dennis Wixon
+A data research project for USC GESM-161 with Professor Dennis Wixon.
 
 ## Research question
 
@@ -21,6 +21,9 @@ I am interested in this topic because politicians typically use and choose words
 
 ## Software and tools
 
+* AntConc
+* Excel
+* SPSS
 * R and RStudio
 * QuickCounter
 
