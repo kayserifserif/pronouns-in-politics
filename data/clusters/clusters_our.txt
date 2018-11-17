@@ -53,7 +53,6 @@ Obama	51	2	our strategic
 Obama	52	2	our system
 Obama	53	2	our work
 Obama	54	2	our workers
-Trump	1	31	our country
 Trump	2	11	our people
 Trump	3	10	our nation
 Trump	4	9	our citizens
