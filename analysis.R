@@ -61,7 +61,7 @@ g_pronouns <- newggslopegraph(
 g_pronouns <- g_pronouns + scale_y_continuous(trans = "reverse")
 
 ggsave(
-  filename = "output/clusters_my1.png",
+  filename = "output/clusters_my.png",
   plot = g_cmy,
   width = 159,
   height = 106,
@@ -70,7 +70,7 @@ ggsave(
 )
 
 ggsave(
-  filename = "output/clusters_our1.png",
+  filename = "output/clusters_our.png",
   plot = g_cour,
   width = 159,
   height = 317,
@@ -79,7 +79,7 @@ ggsave(
 )
 
 ggsave(
-  filename = "output/clusters_their1.png",
+  filename = "output/clusters_their.png",
   plot = g_ctheir,
   width = 159,
   height = 106,
@@ -88,7 +88,7 @@ ggsave(
 )
 
 ggsave(
-  filename = "output/pronoun_rankings1.png",
+  filename = "output/pronoun_rankings.png",
   plot = g_pronouns,
   width = 159,
   height = 317,
