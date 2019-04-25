@@ -28,31 +28,55 @@ Duration	00:16:28
 
 UNITED NATIONS GENERAL ASSEMBLY SPEECH
 
-Obama_20090923_UnitedNationsGeneralAssemblySpeech.txt
+Obama_U_20090923_AddresstotheUnitedNationsGeneralAssembly.txt
 Source	American Rhetoric
-Words	5174
-Characters	29720
-Duration	00:38:08
+Words	5175
+Characters	29925
+Duration	00:38:09
 
-Trump_20180925_UnitedNationsGeneralAssemblySpeech.txt
+Obama_U_20100923_AddresstotheUnitedNationsGeneralAssembly.txt
 Source	American Rhetoric
-Words	3668
-Characters	21884
-Duration	00:34:42
+Words	4129
+Characters	23912
+Duration	00:32:15
+
+Trump_U_20170919_AddresstotheUnitedNationsGeneralAssembly.txt
+Source	American Rhetoric
+Words	4589
+Characters	27568
+Duration	00:41:37
+
+Trump_U_20180925_AddresstotheUnitedNationsGeneralAssembly.txt
+Source	American Rhetoric
+Words	3664
+Characters	21853
+Duration	00:34:45
 
 STATE OF THE UNION ADDRESS
 
 Obama_20100127_StateoftheUnionAddress.txt
 Source	American Rhetoric
-Words	7419
-Characters	42667
-Duration	01:10:21
+Words	7416
+Characters	42655
+Duration	01:09:44
 
-Trump_20180130_StateoftheUnionAddress.txt
+Obama_S_20110125_StateoftheUnionAddress.txt
 Source	American Rhetoric
-Words	5966
-Characters	34175
-Duration	01:20:30
+Words	7135
+Characters	39882
+Duration	01:02:01
+
+Trump_S_20180130_StateoftheUnionAddress.txt
+Source	American Rhetoric
+Words	5956
+Characters	34222
+Duration	01:22:26
+
+Trump_S_20190205_StateoftheUnionAddress.txt
+Source	American Rhetoric
+Words	5618
+Characters	32897
+Duration	1:22:31
 
 TRAGEDY RESPONSE
 
@@ -75,6 +99,18 @@ Source	American Rhetoric
 Words   2599
 Characters  14625
 Duration    00:22:17
+
+Obama_20160322_RemarkstothePeopleofCuba.txt
+Source	Miller Center
+Words	4147
+Characters	23269
+Duration	00:34:03
+
+Obama_20130321_AddresstothePeopleofIsrael.txt
+Source	Miller Center
+Words	5512
+Characters	31112
+Duration	00:49:54
 
 Trump_20170606_SpeechtoPoland.txt
 Source	American Rhetoric
